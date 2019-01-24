@@ -5,4 +5,4 @@ if(b.isnumeric()):
 if(b in a):
     print('Vowel')
 if(b.isalpha()):
-    print('compound')
+    print('Consonant')
