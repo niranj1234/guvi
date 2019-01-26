@@ -1,4 +1,4 @@
-r=int(input('enter the year:'))
+r=int(input())
 if(r%4==0):
     print("yes")
 else:
