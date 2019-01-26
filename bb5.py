@@ -1,7 +1,7 @@
-a,b,c=map(int,input().split())
-if a>b and a>c:
-    print("a is greater")
-elif b>c:
-    print("b is greater")
+x,z,y=map(int,input().split())
+if x>z and x>y:
+    print("x is greater")
+elif z>y:
+    print("z is greater")
 else:
-    print("c is greater")
+    print("y is greater")
