@@ -1,8 +1,8 @@
-a=int(input())
+A=int(input())
 numbers=[int(i) for i in input().split()]
-c=len(numbers)
-if(a==c):
-    d=round((c-1)/2)
-    b = sorted(numbers)
-    e=b[d]
-    print(e)
+C=len(numbers)
+if(A==C):
+    D=round((C-1)/2)
+    B = sorted(numbers)
+    E=B[D]
+    print(E)
