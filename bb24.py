@@ -1,3 +1,5 @@
+a=int(input())
 numbers=[int(i) for i in input().split()]
-numbers = sorted(numbers)
-print(*numbers)
+if(a==len(numbers)):
+    numbers = sorted(numbers)
+    print(*numbers)
