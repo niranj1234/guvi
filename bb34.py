@@ -1,2 +1,3 @@
-d=list(input().strip())
-print(d.count('.'))
+d=input()
+b=len(d.split('.'))
+print(b)
