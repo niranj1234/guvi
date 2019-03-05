@@ -8,7 +8,6 @@ elif nterms == 1:
    print("Fibonacci sequence upto",nterms,":")
    print(n1)
 else:
-   print("Fibonacci sequence upto",nterms,":")
    while count < nterms:
        print(n2,end=' ')
        nth = n1 + n2
