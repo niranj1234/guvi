@@ -1,8 +1,8 @@
 a=int(input())
 b=a**0.5
 if(b%2==0):
-    print("Yes")
+    print("yes")
 elif(a==2):
-    print("Yes")
+    print("yes")
 else:
-    print("No")
+    print("no")
