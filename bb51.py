@@ -1,3 +1,3 @@
 N=int(input())
-b=str(a)
+b=str(N)
 print(" ".join(b))
