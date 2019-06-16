@@ -1,2 +1,2 @@
-N=int(input())
-print(N*2)
+numNda=int(input())
+print(numNda*2)
