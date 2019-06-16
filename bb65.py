@@ -1,2 +1,2 @@
-S=input()
-print(S)
+stringSda=input()
+print(stringSda)
